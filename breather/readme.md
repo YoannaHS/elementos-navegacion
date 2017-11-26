@@ -1,16 +1,22 @@
 # Elementos de Navegación
 
-# 1. [Breather](https://breather.com/)
 ![logo](assets/img/logo.png)
 
-+ Navegación Global
+# 1. [Breather](https://breather.com/)
+
++ _Navegación Global_
+
 
 ![](assets/img/barra-nav.png)
 
-+ Navegación local
+
++ _Navegación local_
+
 
 ![](assets/img/in-line.png)
 
-+ Navegación local
+
++ _Navegación local_
+
 
 ![](assets/img/adicional.png)
