@@ -4,19 +4,25 @@
 
 # 1. [Breather](https://breather.com/)
 
-+ _Navegación Global_
++ ## _Navegación Global_ 
 
 
 ![](assets/img/barra-nav.png)
 
 
-+ _Navegación local_
++ ## _Navegación local_
 
 
 ![](assets/img/in-line.png)
 
 
-+ _Navegación local_
++ ## _Navegación local_
 
 
 ![](assets/img/adicional.png)
+
+
++ ## _Navegación Filtrada_
+
+
+![](assets/img/filtrada.png)
