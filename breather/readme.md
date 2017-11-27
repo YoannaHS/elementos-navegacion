@@ -8,7 +8,7 @@
 
 ![](assets/img/barra-nav.png)
 
-+ ## _Navegación local_
++ ## _Navegación filtrada_
 
 ![](assets/img/in-line.png)
 
