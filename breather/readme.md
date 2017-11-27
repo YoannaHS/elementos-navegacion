@@ -8,11 +8,11 @@
 
 ![](assets/img/barra-nav.png)
 
-+ ## _Navegación filtrada_
++ ## _Navegación local_
 
 ![](assets/img/in-line.png)
 
-+ ## _Navegación local_
++ ## _Navegación filtrada_
 
 ![](assets/img/adicional.png)
 
